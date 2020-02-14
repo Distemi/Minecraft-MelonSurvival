@@ -1,0 +1,17 @@
+name: MelonSurvival
+main: MelonSurvival.GameStart
+version: 1.0.0
+commands:
+  menu:
+    description: Menu
+    usage: /menu
+  shop:
+    description: Shop
+    usage: /shop
+  donate:
+    description: Donate
+    usage: /donate
+   
+           
+permissions:
+    
